@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "work meeting",
+      "day": "Aug 22nd at 3:42pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "pick up boyfriend from airport",
+      "day": "Aug 25 at 11:00pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "coding",
+      "day": "Sept 3rd at 1:15pm",
+      "reminder": false
+    },
+    {
+      "text": "Take a quiz",
+      "date": "Monday",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Study for interview",
+      "date": "Tuesday",
+      "reminder": false,
+      "id": 5
+    },
+    {
+      "text": "Study",
+      "date": "Monday 2:00pm",
+      "reminder": true,
+      "id": 6
+    }
+  ]
+}
